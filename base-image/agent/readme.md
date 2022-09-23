@@ -11,3 +11,5 @@ docker push nuuvers/keycloak:postgresql-1.0.0
 - `nuuver` = Your docker registry   
 - `keycloak` = Your path in docker registry   
 - `postgresql-1.0.0` = Your image tag name    
+
+Criar imagem
