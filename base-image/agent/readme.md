@@ -1,3 +1,10 @@
+- Documentação para uso com network e banco postgresql
+```
+https://github.com/keycloak/keycloak-containers/blob/19.0.2/server/README.md
+https://www.keycloak.org/server/containers
+```
+
+
 ```powershell
 podman build -t nuuve.jfrog.io/nuuve-docker/keycloak:postgresql-1.0.0 .
 ```
